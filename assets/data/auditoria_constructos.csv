@@ -1,0 +1,9 @@
+﻿constructo_codigo,constructo,items_esperados,n_items_esperado,umbrales_n,cargas_n,coeficientes_d_n,itemfit_n,c2_rows,fiabilidad_rows,independencia_local,figuras_png,itemfitdots_paginas,archivos_personfit_privados,archivos_eap_privados,estado,notas
+PlanPro,Planteamiento del problema,Item1-Item8,8,8,8,8,8,1,1,ok,8,4,1,1,ok,
+RevLit,Revisi?n de la literatura,Item9-Item15,7,7,7,7,7,1,1,ok,7,4,1,1,ok,
+Metodologia,Metodolog?a,Item16-Item36,21,21,21,21,21,1,1,ok,13,11,1,1,ok,
+Metodo,M?todo,Item37-Item50,14,14,14,14,14,1,1,ok,7,7,1,1,ok,
+Resultados,Resultados,Item51-Item59,9,9,9,9,9,1,1,ok,7,5,1,1,ok,
+Discusion,Discusi?n,Item60-Item65,6,6,6,6,6,1,1,ok,7,3,1,1,ok,
+Conclusiones,Conclusiones,Item66-Item70,5,5,5,5,5,1,1,ok,7,3,1,1,ok,
+ComCient,Comunicaci?n cient?fica,Item71-Item80,10,10,10,10,10,1,1,ok,7,5,1,1,ok,

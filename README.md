@@ -1,20 +1,18 @@
-# Sitio EAN-IN
+# EAN-IN web
 
-Sitio estatico generado desde el reporte técnico `REPORTE MODELO 1 8 FACTORES.docx`.
+Micrositio suplementario para evidencias psicométricas del EAN-IN.
 
-## Abrir localmente
+Sitio público: https://kristiancobaes-ops.github.io/ean-in-web/
 
-Abra `index.html` en un navegador.
+## Contenido
 
-## Publicar en GitHub Pages
+- 8 páginas por constructo.
+- Diccionario de reactivos por constructo.
+- Unidimensionalidad/ajuste global GRM.
+- Independencia local LD/Q3.
+- Umbrales, cargas, coeficientes y ajuste de ítems.
+- Figuras agregadas.
 
-1. Cree o seleccione un repositorio de GitHub.
-2. Suba todo el contenido de esta carpeta a la rama principal del repositorio.
-3. En GitHub, vaya a Settings > Pages y publique desde la rama principal.
+## Privacidad
 
-## Estructura
-
-- `index.html`: portada, resumen breve para artículo y comparativo.
-- `*.html`: una pagina completa por constructo.
-- `assets/media`: figuras extraídas del DOCX.
-- `resumen-para-artículo.md`: texto breve para adaptar al manuscrito.
+No se publican datos crudos, respuestas individuales, puntuaciones EAP/personfit por caso ni objetos `.rds`.
