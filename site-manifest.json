@@ -1,0 +1,196 @@
+{
+  "source_docx": "C:\\Users\\krist\\Documents\\CONVOCATORIA HUMANÍSTICA 2025\\PRIMERA ETAPA 24 de abril-24 de octubre 2026\\5. Recolección y análisis de datos cualitativos y cuantitativos\\Cuantitativo\\REPORTE TÉCNICO ANÁLISIS CUANTITATIVO\\REPORTE MODELO 1 8 FACTORES.docx",
+  "site_dir": "C:\\Users\\krist\\Documents\\Codex\\2026-06-15\\tu-puedes-conectarte-con-github\\outputs\\ean-in-web",
+  "constructs": [
+    {
+      "title": "Planteamiento del problema",
+      "file": "planteamiento-del-problema.html",
+      "metrics": {
+        "items": 8,
+        "reliability": ".938",
+        "srmr": ".047",
+        "srmsr": ".048",
+        "info": "Curva de información del ítem (IIF) Las curvas de información del ítem (Figura 5) muestran que el constructo Planteamiento del problema mide con mayor precisión en niveles intermedios y...",
+        "tables": 10,
+        "figures": 11
+      }
+    },
+    {
+      "title": "Revisión de la literatura",
+      "file": "revision-de-la-literatura.html",
+      "metrics": {
+        "items": 8,
+        "reliability": ".916",
+        "srmr": ".081",
+        "srmsr": "Ver detalle",
+        "info": "Caso Item9 Item10 Item11 Item12 Item13 Item14 Item15 Outfit z.outfit Infit z.infit Zh 1 5 5 2 1 4 1 1 8.51 5.53 9.78 5.73 -8.88 2 3 2 5 3 1 4 2 5.24 4.76 5.18 4.40 -7.62 3 3 5 2 2 3 5 2...",
+        "tables": 11,
+        "figures": 10
+      }
+    },
+    {
+      "title": "Metodología",
+      "file": "metodologia.html",
+      "metrics": {
+        "items": 23,
+        "reliability": ".971",
+        "srmr": ".075",
+        "srmsr": ".060",
+        "info": "Caso Outfit z_outfit Infit z_infit Zh 46 6.2 8.6 6.14 8.35 -16.68 352 5.22 6.21 5.04 6.09 -10.53 361 6.06 6.01 5.59 5.84 -9.66 488 3.92 5.44 3.87 5.24 -9.53 441 7.13 9.18 6.06 8.7 -9.42 197...",
+        "tables": 10,
+        "figures": 11
+      }
+    },
+    {
+      "title": "Método",
+      "file": "metodo.html",
+      "metrics": {
+        "items": 16,
+        "reliability": "Ver detalle",
+        "srmr": ".078",
+        "srmsr": ".080",
+        "info": "Caso 37 38 39 40 41 42 43 44 45 46 47 48 49 50 Outfit z_outfit Infit z_infit Zh 153 5 4 1 1 3 5 5 3 1 3 3 1 1 1 6.402 5.80 6.75 6.45 -10.95 197 2 4 1 1 1 4 4 4 2 1 4 1 1 1 7.490 6.18 6.57...",
+        "tables": 11,
+        "figures": 9
+      }
+    },
+    {
+      "title": "Resultados",
+      "file": "resultados.html",
+      "metrics": {
+        "items": 11,
+        "reliability": ".946",
+        "srmr": ".042",
+        "srmsr": ".094",
+        "info": "Curva de información del ítem (IIF) La curva de información del ítem para el constructo Resultados muestra que la mayor precisión de medición se concentra aproximadamente entre θ = -1.5 y θ...",
+        "tables": 8,
+        "figures": 10
+      }
+    },
+    {
+      "title": "Discusión",
+      "file": "discusion.html",
+      "metrics": {
+        "items": 9,
+        "reliability": ".902",
+        "srmr": ".020",
+        "srmsr": ".126",
+        "info": "Curva de información del ítem (IIF) La curva de información del ítem para el constructo Discusión muestra que los seis reactivos aportan información en una zona muy concentrada del...",
+        "tables": 9,
+        "figures": 11
+      }
+    },
+    {
+      "title": "Conclusiones",
+      "file": "conclusiones.html",
+      "metrics": {
+        "items": 8,
+        "reliability": ".933",
+        "srmr": ".021",
+        "srmsr": ".125",
+        "info": "Curva de información del ítem (IIF) La curva de información del ítem para el constructo Conclusiones muestra que los reactivos aportan mayor precisión en una zona relativamente concentrada...",
+        "tables": 8,
+        "figures": 11
+      }
+    },
+    {
+      "title": "Comunicación científica",
+      "file": "comunicacion-cientifica.html",
+      "metrics": {
+        "items": 12,
+        "reliability": ".949",
+        "srmr": ".086",
+        "srmsr": ".097",
+        "info": "Curva de información del ítem (IIF) La curva de información del ítem para Comunicación científica muestra que los reactivos aportan mayor precisión en la zona baja-media, media y medio-alta...",
+        "tables": 9,
+        "figures": 11
+      }
+    }
+  ],
+  "media_files": [
+    "image1.png",
+    "image10.png",
+    "image11.png",
+    "image12.png",
+    "image13.png",
+    "image14.png",
+    "image15.png",
+    "image16.png",
+    "image17.png",
+    "image18.png",
+    "image19.png",
+    "image2.png",
+    "image20.png",
+    "image21.png",
+    "image22.png",
+    "image23.png",
+    "image24.png",
+    "image25.png",
+    "image26.png",
+    "image27.png",
+    "image28.png",
+    "image29.png",
+    "image3.png",
+    "image30.png",
+    "image31.png",
+    "image32.png",
+    "image33.png",
+    "image34.png",
+    "image35.png",
+    "image36.png",
+    "image37.png",
+    "image38.png",
+    "image39.png",
+    "image4.png",
+    "image40.png",
+    "image41.png",
+    "image42.png",
+    "image43.png",
+    "image44.png",
+    "image45.png",
+    "image46.png",
+    "image47.png",
+    "image48.png",
+    "image49.png",
+    "image5.png",
+    "image50.png",
+    "image51.png",
+    "image52.png",
+    "image53.png",
+    "image54.png",
+    "image55.png",
+    "image56.png",
+    "image57.png",
+    "image58.png",
+    "image59.png",
+    "image6.png",
+    "image60.png",
+    "image61.png",
+    "image62.png",
+    "image63.png",
+    "image64.png",
+    "image65.png",
+    "image66.png",
+    "image67.png",
+    "image68.png",
+    "image69.png",
+    "image7.png",
+    "image70.png",
+    "image71.png",
+    "image72.png",
+    "image73.png",
+    "image74.png",
+    "image75.png",
+    "image76.png",
+    "image77.png",
+    "image78.png",
+    "image79.png",
+    "image8.png",
+    "image80.png",
+    "image81.png",
+    "image82.png",
+    "image83.png",
+    "image84.png",
+    "image9.png"
+  ]
+}
